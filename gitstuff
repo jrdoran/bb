@@ -2,3 +2,8 @@
   630  git add .
   631  git commit -m "jd11"
   632  git push -u origin master
+
+
+
+sometimes needed. 
+git remote rm origin
